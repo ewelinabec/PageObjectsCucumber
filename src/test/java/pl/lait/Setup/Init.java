@@ -15,6 +15,11 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
+/**
+ * piszę ten komentarz dla potomności żeby było wiadomo że tu byłem
+ * @author Błędny Rycerz
+ *
+ */
 public class Init {
 
 	// static FirefoxDriver driver;
@@ -83,5 +88,8 @@ public class Init {
 		 * e1.printStackTrace(); }
 		 */
 	}
-
+/**
+ * Tu też byłem ;)
+ */
 }
+

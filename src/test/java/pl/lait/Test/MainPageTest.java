@@ -6,6 +6,12 @@ import org.openqa.selenium.WebDriver;
 import pl.lait.PageObjects.MainPage;
 import pl.lait.Setup.Init;
 
+/**
+ * Klasa zawierająca test głównej strony, obecnie nieużywana bo przełączyliśmy się
+ * na Cucumbera i operujemy na historyjkach
+ * @author adzik
+ *
+ */
 public class MainPageTest extends Init{
 	
 	protected static WebDriver driver;

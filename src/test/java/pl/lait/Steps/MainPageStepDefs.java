@@ -16,7 +16,7 @@ import pl.lait.Setup.Init;
 public class MainPageStepDefs extends Init{
 	protected WebDriver driver;
 
-	/**	komentarz nr 1 rafal
+	/**	komentarz nr 1 rafala do MainPageStepDefs.java
  * 
  */
 	
@@ -133,7 +133,7 @@ public class MainPageStepDefs extends Init{
 		
 	}
 	
-	/** komentarz nr 2 rafal
+	/** komentarz nr 2 rafala do MainPageStepDefs.java
 	 * **/
 	
 	

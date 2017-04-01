@@ -5,6 +5,13 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
 
+
+/**zmiana w reservationPage
+ * najpierw piszemy stringi a potem metody
+ *   zianacccc
+ * @author MediaExpert
+ *
+ */
 public class ReservationPage {
 	
 	static String roundTrip_xpath = "/html/body/div/table/tbody/tr/td[2]/" 

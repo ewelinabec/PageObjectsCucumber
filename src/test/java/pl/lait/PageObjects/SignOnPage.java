@@ -3,6 +3,11 @@ package pl.lait.PageObjects;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
+/**
+ * 
+ * @author KJ1
+ *komentarz do strony Sign On
+ */
 public class SignOnPage {
 	
 	
@@ -30,3 +35,7 @@ public class SignOnPage {
 	
 
 }
+
+/*
+ * a to drugi komentarz do Sign On
+ */

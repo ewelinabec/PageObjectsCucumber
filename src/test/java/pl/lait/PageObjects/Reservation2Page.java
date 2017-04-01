@@ -4,6 +4,11 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
+/**
+ * wprowadzamy dane na drugiej stronie rezerwacji lotu
+ * @author anna-
+ *
+ */
 
 public class Reservation2Page {
 	

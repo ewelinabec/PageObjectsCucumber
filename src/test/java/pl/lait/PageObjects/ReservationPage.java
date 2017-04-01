@@ -8,7 +8,7 @@ import org.openqa.selenium.support.ui.Select;
 
 /**zmiana w reservationPage
  * najpierw piszemy stringi a potem metody
- * 
+ *   ziana
  * @author MediaExpert
  *
  */

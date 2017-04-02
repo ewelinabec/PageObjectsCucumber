@@ -15,6 +15,10 @@ import pl.lait.Setup.Init;
 
 public class MainPageStepDefs extends Init{
 	protected WebDriver driver;
+
+	/**	komentarz nr 1 rafala do MainPageStepDefs.java 
+ * 
+ */
 	
 	@Before
 	public void init(){
@@ -129,7 +133,10 @@ public class MainPageStepDefs extends Init{
 		
 	}
 	
-	 
+	/** komentarz nr 2 rafala do MainPageStepDefs.java
+	 * **/
+	
+	
 	@After
 	public void end(){
 		cleanUp();

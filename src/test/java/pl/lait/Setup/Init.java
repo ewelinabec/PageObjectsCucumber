@@ -41,7 +41,7 @@ public class Init {
 			URL hubUrl = null;
 
 			try {
-				hubUrl = new URL("http://192.168.2.54:4444/wd/hub/");
+				hubUrl = new URL("http://192.168.0.116:4444/wd/hub/");
 				//hubUrl = new URL("http://localhost:4433/wd/hub/");
 			} catch (MalformedURLException e) {
 				// TODO Auto-generated catch block
@@ -49,8 +49,8 @@ public class Init {
 			}
 			// URL url = new
 			// URL("http://"+seleniumHost+":"+seleniumPort+"/wd/hub");
-			//DesiredCapabilities cap = DesiredCapabilities.firefox();
-			DesiredCapabilities cap = DesiredCapabilities.chrome();
+			DesiredCapabilities cap = DesiredCapabilities.firefox();
+			//DesiredCapabilities cap = DesiredCapabilities.chrome();
 
 			driver = new RemoteWebDriver(hubUrl, cap);
 			// driver = new FirefoxDriver();

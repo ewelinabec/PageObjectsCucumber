@@ -9,6 +9,12 @@ import pl.lait.PageObjects.ReservationPage;
 import pl.lait.PageObjects.SignOnPage;
 import pl.lait.Setup.Init;
 
+
+/**
+ * Klasa z testami rezerwacji lotów
+ * @author adzik
+ *
+ */
 public class ReservationTest extends Init{
 	
 	protected static WebDriver driver;
